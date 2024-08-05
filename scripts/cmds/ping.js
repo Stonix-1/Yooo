@@ -18,7 +18,7 @@ module.exports = {
   },
   onStart: async function ({ api, event }) {
     // Send the initial message
-    api.sendMessage("⏳ Wait boss, checking Muntaha's ping...", event.threadID, async (err, messageInfo) => {
+    api.sendMessage("⏳ Wait boss, checking Yami's ping...", event.threadID, async (err, messageInfo) => {
       if (err) return console.error(err);
 
       // Wait for a moment to simulate ping check
