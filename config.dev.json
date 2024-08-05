@@ -21,7 +21,8 @@
   ],
   "whiteListMode": {
     "enable": true,
-    "whiteListIds": ["",],
+    "whiteListIds": ["100086747072197",
+    ""],
     "notes": "if you enable this feature, only the ids in the whiteListIds section can use the bot"
   },
   "nickNameBot": "Yāmì",
