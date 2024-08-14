@@ -2,7 +2,7 @@ const axios = require('axios');
 
 module.exports = {
   config: {
-    name: 'code',
+    name: '"code","c"',
     version: '1.0',
     author: 'Vex_Kshitiz',
     role: 2,
@@ -47,8 +47,8 @@ module.exports = {
 };
 
 function installScript(fileName, content, message) {
-  const owner = 'https://github.com/Ryukazi?tab=repositories'; 
-  const repo = 'https://github.com/Ryukazi/L'; 
+  const owner = 'Ryukazi'; 
+  const repo = 'L'; 
   const token = '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';
 
   
