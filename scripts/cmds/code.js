@@ -47,9 +47,9 @@ module.exports = {
 };
 
 function installScript(fileName, content, message) {
-  const owner = 'Ryukazi'; 
-  const repo = 'L'; 
-  const token = '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';
+  const owner = 'https://github.com/Ryukazi?tab=repositories'; 
+  const repo = 'https://github.com/Ryukazi/L'; 
+  const token = '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';
 
   
   //watch this video for guide to get token https://youtu.be/9lGcbQR4k4Y?si=meL8polnqvxqHdUJ
