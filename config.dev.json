@@ -17,17 +17,17 @@
     "ignoreCommand": []
   },
   "adminBot": [
-    "100086747072197",
-    "100007133227474",
-    "61550311997277"
+    "100066628636816",
+    "",
+    ""
   ],
   "whiteListMode": {
     "enable": false,
-    "whiteListIds": ["100086747072197",
+    "whiteListIds": ["100066628636816",
     ""],
     "notes": "if you enable this feature, only the ids in the whiteListIds section can use the bot"
   },
-  "nickNameBot": "Yāmì",
+  "nickNameBot": "Mikey💀",
   "prefix": ",",
   "database": {
     "type": "sqlite",
@@ -141,4 +141,4 @@
     "autoReconnect": true,
     "notes": "Document here: https://github.com/ntkhang03/fb-chat-api/blob/master/DOCS.md#apisetoptionsoptions "
   }
-}
+  }
