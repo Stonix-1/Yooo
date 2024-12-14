@@ -1,1 +1,128 @@
-datr=MZnaZkVcGgnUhmxSzgITIApQ; sb=MZnaZhUJaWLzkCLfKihbPVdC; ps_l=1; ps_n=1; m_pixel_ratio=2.15625; vpd=v1%3B933x501x2.15625; dpr=2.15625; x-referer=eyJyIjoiL250L3NjcmVlbi8%2FcGFyYW1zPSU3QiUyMnRva2VuJTIyJTNBJTIyQVZqeWxYQ1JTTDZwU3dUNHpiRy1nVk5oVklBdnEzY3NSRmk3V3BSQUlRYjg2T3pSbmJ2RTFtRThrZTdnWkQtSFdDNEdWN0FnaERtUmxJb3lfMjFtNjgxZmh2VGxVNFVremZlVkhUcUFsX1oxR0lZcmF6RWpBVVpuUURZdm5EYWY2UWMyZzVlbVFteUROQVByMmYzRG9VY2R0cUhfMGlTOGdWU1hRUUh5V1BOSnZBc2tqalZNUlRCdlZXUWpiZDZyV1VwN0Ntejg3XzhwQ3JXaFI4Vm55dlBuZDhnU2ljT3RnS0FWM0ZKNDBCZThpU0RxdTRXTU1GZVNHUnFjYk5MYVlmdnlidi1TYW9XQnRRUm9kd1h2N1BnR2Uwdk1PMkxpcHJHa0toblhhVDh5X21ScGt4amZWaFRCZjVIT0pKUEVvVzdZZXVYMkVCZnRPRUJEVlZvdURZel9fWnRkTm9RUEZfX0txMzlCaFhfUzlGcjlvSjJoMEZkcUhfWUM5c2FQcmNWcWtWMHg4NjdYdFhXRVRnNzcyS1o3SWhnWU9mejVxNjVWdUVVYXo0NCUyMiUyQyUyMmthcm1hX2xpbWl0X2hpdCUyMiUzQWZhbHNlJTdEJnBhdGg9JTJGbnQlMkZjaGVja3BvaW50JTJGODI4MjgxMDMwOTI3OTU2JTJGY2hhbGxlbmdlX2Nob29zZXImc3RhdGU9JiIsImgiOiIvbnQvc2NyZWVuLz9wYXJhbXM9JTdCJTIydG9rZW4lMjIlM0ElMjJBVmp5bFhDUlNMNnBTd1Q0emJHLWdWTmhWSUF2cTNjc1JGaTdXcFJBSVFiODZPelJuYnZFMW1FOGtlN2daRC1IV0M0R1Y3QWdoRG1SbElveV8yMW02ODFmaHZUbFU0VWt6ZmVWSFRxQWxfWjFHSVlyYXpFakFVWm5RRFl2bkRhZjZRYzJnNWVtUW15RE5BUHIyZjNEb1VjZHRxSF8waVM4Z1ZTWFFRSHlXUE5KdkFza2pqVk1SVEJ2VldRamJkNnJXVXA3Q216ODdfOHBDcldoUjhWbnl2UG5kOGdTaWNPdGdLQVYzRko0MEJlOGlTRHF1NFdNTUZlU0dScWNiTkxhWWZ2eWJ2LVNhb1dCdFFSb2R3WHY3UGdHZTB2TU8yTGlwckdrS2huWGFUOHlfbVJwa3hqZlZoVEJmNUhPSkpQRW9XN1lldVgyRUJmdE9FQkRWVm91RFl6X19adGROb1FQRl9fS3EzOUJoWF9TOUZyOW9KMmgwRmRxSF9ZQzlzYVByY1Zxa1YweDg2N1h0WFdFVGc3NzJLWjdJaGdZT2Z6NXE2NVZ1RVVhejQ0JTIyJTJDJTIya2FybWFfbGltaXRfaGl0JTIyJTNBZmFsc2UlN0QmcGF0aD0lMkZudCUyRmNoZWNrcG9pbnQlMkY4MjgyODEwMzA5Mjc5NTYlMkZjaGFsbGVuZ2VfY2hvb3NlciZzdGF0ZT0mIiwicyI6Im0ifQ%3D%3D; locale=en_GB; wd=501x933; c_user=61566869785348; fr=1qa6Nbi924LxTa1vJ.AWUIgYjo5gOJCtNKoiRHG3l-mMs.Bm831V..AAA.0.0.BnXVcY.AWW_Ery7Iss; xs=48%3ABaiNcnCviTFKtQ%3A2%3A1734170392%3A-1%3A1810; fbl_st=100737982%3BT%3A28902840; wl_cbv=v2%3Bclient_version%3A2695%3Btimestamp%3A1734170395%3BCRCM%3A-315856994
+[
+    {
+        "key": "dbln",
+        "value": "%7B%22100014034703835%22%3A%226cn9YvHP%22%2C%2261554950529005%22%3A%22YSpeNv7F%22%2C%22100053757482432%22%3A%228DC31FUO%22%2C%2261553352542946%22%3A%22K0mnvX5R%22%2C%22100001430208707%22%3A%22qdhD7sEy%22%2C%2261550110857427%22%3A%22E89swoiA%22%2C%2261552062231831%22%3A%22ttHz6ipl%22%2C%22100050107954573%22%3A%227BfpQUoD%22%7D",
+        "domain": "facebook.com",
+        "path": "/login/device-based/",
+        "hostOnly": false,
+        "creation": "2024-12-14T10:13:35.631Z",
+        "lastAccessed": "2024-12-14T10:13:35.631Z"
+    },
+    {
+        "key": "sb",
+        "value": "Hko6Zi-ADo__8xWQbXsy9KTJ",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2024-12-14T10:13:35.631Z",
+        "lastAccessed": "2024-12-14T10:13:35.631Z"
+    },
+    {
+        "key": "datr",
+        "value": "DFDsZug61D5jkpVuDVvQNtdq",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2024-12-14T10:13:35.631Z",
+        "lastAccessed": "2024-12-14T10:13:35.631Z"
+    },
+    {
+        "key": "ps_l",
+        "value": "1",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2024-12-14T10:13:35.631Z",
+        "lastAccessed": "2024-12-14T10:13:35.631Z"
+    },
+    {
+        "key": "ps_n",
+        "value": "1",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2024-12-14T10:13:35.631Z",
+        "lastAccessed": "2024-12-14T10:13:35.631Z"
+    },
+    {
+        "key": "vpd",
+        "value": "v1%3B973x501x2.15625",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2024-12-14T10:13:35.631Z",
+        "lastAccessed": "2024-12-14T10:13:35.631Z"
+    },
+    {
+        "key": "m_pixel_ratio",
+        "value": "2.15625",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2024-12-14T10:13:35.631Z",
+        "lastAccessed": "2024-12-14T10:13:35.631Z"
+    },
+    {
+        "key": "wd",
+        "value": "501x973",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2024-12-14T10:13:35.631Z",
+        "lastAccessed": "2024-12-14T10:13:35.631Z"
+    },
+    {
+        "key": "c_user",
+        "value": "61566869785348",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2024-12-14T10:13:35.631Z",
+        "lastAccessed": "2024-12-14T10:13:35.631Z"
+    },
+    {
+        "key": "xs",
+        "value": "26%3AAIwZe5D06ubczA%3A2%3A1734171174%3A-1%3A1810",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2024-12-14T10:13:35.631Z",
+        "lastAccessed": "2024-12-14T10:13:35.631Z"
+    },
+    {
+        "key": "locale",
+        "value": "en_GB",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2024-12-14T10:13:35.631Z",
+        "lastAccessed": "2024-12-14T10:13:35.631Z"
+    },
+    {
+        "key": "fbl_st",
+        "value": "101024361%3BT%3A28902853",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2024-12-14T10:13:35.631Z",
+        "lastAccessed": "2024-12-14T10:13:35.631Z"
+    },
+    {
+        "key": "wl_cbv",
+        "value": "v2%3Bclient_version%3A2695%3Btimestamp%3A1734171179",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2024-12-14T10:13:35.631Z",
+        "lastAccessed": "2024-12-14T10:13:35.631Z"
+    },
+    {
+        "key": "fr",
+        "value": "15lOj76FvaNsZBnM0.AWVN2SRJCuCSj08HleIsU6M5WL8.BnScYW..AAA.0.0.BnXVov.AWX9svbNotA",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2024-12-14T10:13:35.631Z",
+        "lastAccessed": "2024-12-14T10:13:35.631Z"
+    }
+]
